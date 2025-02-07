@@ -12,4 +12,9 @@ Designed for **SOC analysts, security engineers, and blue teamers** to respond t
 ✅ **Phishing Response**  
 - Analyze email headers (Microsoft 365 / Google Workspace).  
 - Extract IOCs and block malicious domains.  
-- Update SIEM rules to detect similar threats.  
+- Update SIEM rules to detect similar threats.
+  
+✅ **Malware Triage**  
+- Collect endpoint logs using **CrowdStrike / Carbon Black**.  
+- Isolate infected systems and perform static analysis.  
+- Reverse engineer malware samples using **FlareVM**. 
