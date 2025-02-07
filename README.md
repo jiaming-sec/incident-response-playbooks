@@ -22,4 +22,15 @@ Designed for **SOC analysts, security engineers, and blue teamers** to respond t
 ✅ **Network Intrusion Detection**  
 - Investigate suspicious traffic using **Wireshark**.  
 - Detect threats with **Suricata / Snort**.  
-- Implement firewall rules with **Palo Alto** to mitigate attacks.  
+- Implement firewall rules with **Palo Alto** to mitigate attacks.
+
+---
+
+## 🛠 Tools & Frameworks Used:
+- **SIEM:** Splunk, Elastic, Graylog  
+- **Threat Intelligence:** VirusTotal, AbuseIPDB, MISP  
+- **EDR/XDR:** CrowdStrike, Carbon Black  
+- **Packet Analysis:** Wireshark, Suricata, Snort  
+- **Frameworks:** MITRE ATT&CK, NIST CSF  
+
+📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
