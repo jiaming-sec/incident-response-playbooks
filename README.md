@@ -7,3 +7,9 @@ A collection of security incident response playbooks for SOC analysts.
 Designed for **SOC analysts, security engineers, and blue teamers** to respond to security incidents efficiently.  
 
 ---
+
+## 🔥 Included Playbooks:
+✅ **Phishing Response**  
+- Analyze email headers (Microsoft 365 / Google Workspace).  
+- Extract IOCs and block malicious domains.  
+- Update SIEM rules to detect similar threats.  
