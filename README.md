@@ -18,3 +18,8 @@ Designed for **SOC analysts, security engineers, and blue teamers** to respond t
 - Collect endpoint logs using **CrowdStrike / Carbon Black**.  
 - Isolate infected systems and perform static analysis.  
 - Reverse engineer malware samples using **FlareVM**. 
+
+✅ **Network Intrusion Detection**  
+- Investigate suspicious traffic using **Wireshark**.  
+- Detect threats with **Suricata / Snort**.  
+- Implement firewall rules with **Palo Alto** to mitigate attacks.  
