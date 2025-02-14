@@ -90,5 +90,13 @@ Each incident requires defined roles:
   ```
 - Use threat intelligence platforms (e.g., **VirusTotal**, **MISP**).
 
+### Containment
+- Isolate affected endpoints from the network:
+  ```bash
+  iptables -A INPUT -s <malicious-ip> -j DROP
+  ```
+- Implement firewall rules to block malicious traffic.
+- Suspend compromised user accounts in **Active Directory**.
+
 
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
