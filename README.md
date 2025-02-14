@@ -124,8 +124,15 @@ Leverage **SOAR (Security Orchestration, Automation, and Response)** to enhance 
 - Integrate automated email phishing analysis.
 - Use playbooks in **SIEM** for alert correlation.
 
+## Review and Continuous Improvement
+- Conduct quarterly playbook reviews.
+- Simulate tabletop exercises and red team assessments.
+- Implement feedback from past incidents into updated workflows.
+
+---
+
 ## Communication Protocols
 - **Internal:** Slack, Microsoft Teams, incident bridges.
 - **External:** Predefined customer communication templates.
 - **Regulatory Reporting:** Follow compliance requirements (e.g., **GDPR**, **CISA** reporting).
-📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
+📌 **Contributors:** Security Team @ [jiaming-sec](https://github.com/jiaming-sec) 🚀  
