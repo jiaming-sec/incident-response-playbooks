@@ -103,5 +103,9 @@ Each incident requires defined roles:
 - Apply security patches and update antivirus signatures.
 - Validate system integrity post-eradication.
 
+### Recovery
+- Restore from verified clean backups.
+- Conduct system hardening measures.
+- Monitor affected systems post-recovery.
 
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
