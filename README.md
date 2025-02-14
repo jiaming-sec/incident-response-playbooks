@@ -78,5 +78,17 @@ Each incident requires defined roles:
 - Define access controls and enforce least privilege.
 - Conduct regular security awareness training.
 
+### Detection & Analysis
+- Monitor security alerts from SIEM (e.g., **Splunk**, **Elastic**).
+- Analyze logs for anomalous activity using:
+  ```bash
+  grep 'unauthorized' /var/log/auth.log
+  ```
+- Perform memory analysis for malware:
+  ```bash
+  volatility -f memory.dump --profile=Win7SP1x64 malfind
+  ```
+- Use threat intelligence platforms (e.g., **VirusTotal**, **MISP**).
+
 
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
