@@ -71,5 +71,12 @@ Each incident requires defined roles:
 - **Threat Intelligence Analyst:** Assesses IOCs and provides threat intelligence insights.
 - **Forensic Investigator:** Conducts digital forensics for evidence collection.
 
+## Incident Response Procedures
+### Preparation
+- Maintain an up-to-date asset inventory.
+- Implement logging and monitoring across systems.
+- Define access controls and enforce least privilege.
+- Conduct regular security awareness training.
+
 
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
