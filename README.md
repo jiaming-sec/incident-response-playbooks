@@ -108,4 +108,8 @@ Each incident requires defined roles:
 - Conduct system hardening measures.
 - Monitor affected systems post-recovery.
 
+### Post-Incident Activities
+- Perform a **Root Cause Analysis (RCA)**.
+- Document lessons learned and update playbooks.
+- Conduct a post-mortem meeting with all stakeholders.
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
