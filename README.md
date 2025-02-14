@@ -115,5 +115,14 @@ Each incident requires defined roles:
 
 ## Automation and Orchestration
 Leverage **SOAR (Security Orchestration, Automation, and Response)** to enhance response efficiency:
+- Automate IOC enrichment:
+  ```python
+  import requests
+  response = requests.get('https://www.virustotal.com/api/v3/files/{hash}')
+  print(response.json())
+  ```
+- Integrate automated email phishing analysis.
+- Use playbooks in **SIEM** for alert correlation.
+
 
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
