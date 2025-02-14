@@ -98,5 +98,10 @@ Each incident requires defined roles:
 - Implement firewall rules to block malicious traffic.
 - Suspend compromised user accounts in **Active Directory**.
 
+### Eradication
+- Remove malicious artifacts (files, registry entries, processes).
+- Apply security patches and update antivirus signatures.
+- Validate system integrity post-eradication.
+
 
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
