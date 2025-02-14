@@ -130,5 +130,4 @@ Leverage **SOAR (Security Orchestration, Automation, and Response)** to enhance 
 - Implement feedback from past incidents into updated workflows.
 
 ---
-
 📌 **Contributors:** Security Team @ [jiaming-sec](https://github.com/jiaming-sec) 🚀  
