@@ -131,8 +131,4 @@ Leverage **SOAR (Security Orchestration, Automation, and Response)** to enhance 
 
 ---
 
-## Communication Protocols
-- **Internal:** Slack, Microsoft Teams, incident bridges.
-- **External:** Predefined customer communication templates.
-- **Regulatory Reporting:** Follow compliance requirements (e.g., **GDPR**, **CISA** reporting).
 📌 **Contributors:** Security Team @ [jiaming-sec](https://github.com/jiaming-sec) 🚀  
