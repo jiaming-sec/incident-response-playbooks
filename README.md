@@ -31,6 +31,21 @@ Designed for **SOC analysts, security engineers, and blue teamers** to respond t
 - **Threat Intelligence:** VirusTotal, AbuseIPDB, MISP  
 - **EDR/XDR:** CrowdStrike, Carbon Black  
 - **Packet Analysis:** Wireshark, Suricata, Snort  
-- **Frameworks:** MITRE ATT&CK, NIST CSF  
+- **Frameworks:** MITRE ATT&CK, NIST CSF
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Incident Classification](#incident-classification)
+- [Roles and Responsibilities](#roles-and-responsibilities)
+- [Incident Response Procedures](#incident-response-procedures)
+  - [Preparation](#preparation)
+  - [Detection & Analysis](#detection--analysis)
+  - [Containment](#containment)
+  - [Eradication](#eradication)
+  - [Recovery](#recovery)
+  - [Post-Incident Activities](#post-incident-activities)
+- [Automation and Orchestration](#automation-and-orchestration)
+- [Communication Protocols](#communication-protocols)
+- [Review and Continuous Improvement](#review-and-continuous-improvement)
 
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
