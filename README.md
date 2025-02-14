@@ -62,5 +62,14 @@ To ensure a streamlined response, classify incidents based on severity:
 | SEV4 - Low | Minimal impact, easily contained | Phishing attempt |
 | SEV5 - Informational | No immediate risk | Suspicious login attempt |
 
+## Roles and Responsibilities
+Each incident requires defined roles:
+
+- **Incident Manager:** Oversees the response and ensures coordination.
+- **Technical Lead:** Conducts technical investigations and coordinates remediation efforts.
+- **Communications Manager:** Handles internal/external updates and regulatory notifications.
+- **Threat Intelligence Analyst:** Assesses IOCs and provides threat intelligence insights.
+- **Forensic Investigator:** Conducts digital forensics for evidence collection.
+
 
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
