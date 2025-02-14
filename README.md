@@ -48,4 +48,19 @@ Designed for **SOC analysts, security engineers, and blue teamers** to respond t
 - [Communication Protocols](#communication-protocols)
 - [Review and Continuous Improvement](#review-and-continuous-improvement)
 
+## Introduction
+This repository provides structured **Incident Response Playbooks** for security teams to respond efficiently to cybersecurity threats and incidents. The playbooks align with industry best practices and leverage automation where possible.
+
+## Incident Classification
+To ensure a streamlined response, classify incidents based on severity:
+
+| Severity Level | Impact Scope | Example |
+|---------------|-------------|---------|
+| SEV1 - Critical | Affects multiple systems/org-wide | Ransomware outbreak |
+| SEV2 - High | Significant impact on operations | Data breach |
+| SEV3 - Medium | Limited operational impact | Single endpoint malware infection |
+| SEV4 - Low | Minimal impact, easily contained | Phishing attempt |
+| SEV5 - Informational | No immediate risk | Suspicious login attempt |
+
+
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
