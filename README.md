@@ -112,4 +112,8 @@ Each incident requires defined roles:
 - Perform a **Root Cause Analysis (RCA)**.
 - Document lessons learned and update playbooks.
 - Conduct a post-mortem meeting with all stakeholders.
+
+## Automation and Orchestration
+Leverage **SOAR (Security Orchestration, Automation, and Response)** to enhance response efficiency:
+
 📌 **Contributions Welcome!** If you have an IR playbook to share, feel free to contribute. 🚀  
